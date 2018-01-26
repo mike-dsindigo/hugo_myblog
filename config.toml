@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My site"
+publishDir = "docs"
+theme = "hugo-theme-revealjs"
